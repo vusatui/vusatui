@@ -3,8 +3,7 @@
 Fullstack Software Engineer | JavaScript | Node.js | AWS
 
 linkedin
-![linkedin](https://img.shields.io/badge/LinkedIn-#ffffff?style=for-the-badge&logo=linkedin&logoColor=#0A66C2)
-
+![LinkediIn](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)
 
 ### General Information:
 - An ambitious IT specialist with a strong focus and a genuine personal interest in the architecture of solutions with more than 7 years of practical experience.
