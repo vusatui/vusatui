@@ -3,6 +3,7 @@
 Fullstack Software Engineer | JavaScript | Node.js | AWS
 
 [![](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vusatui/)
+[![](https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/simple_tony)
 
 
 ### General Information:
