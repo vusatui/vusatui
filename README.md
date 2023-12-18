@@ -6,7 +6,7 @@
 [![](https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/simple_tony)
 
 
-[![aws-certified-developer-associate|100x145](https://github.com/vusatui/vusatui/assets/32521973/bfe8a346-71a1-4437-8437-5fc820aed25f)](https://www.credly.com/badges/0a61b7ad-16d5-497c-89c9-376995285c66/public_url)
+[![aws-certified-developer-associate](https://github.com/vusatui/vusatui/assets/32521973/bfe8a346-71a1-4437-8437-5fc820aed25f =250x250)](https://www.credly.com/badges/0a61b7ad-16d5-497c-89c9-376995285c66/public_url)
 
 
 ### 👤 General Information:
