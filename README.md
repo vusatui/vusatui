@@ -5,6 +5,8 @@
 [![](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vusatui/)
 [![](https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/simple_tony)
 
+[![](https://www.credly.com/badges/0a61b7ad-16d5-497c-89c9-376995285c66/public_url)]
+
 
 ### 👤 General Information:
 - An ambitious IT specialist with a strong focus and a genuine personal interest in the architecture of solutions with more than 7 years of practical experience.
