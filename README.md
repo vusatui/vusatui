@@ -8,52 +8,40 @@
 
 [<img src="https://github.com/vusatui/vusatui/assets/32521973/bfe8a346-71a1-4437-8437-5fc820aed25f" width="100">](https://www.credly.com/badges/0a61b7ad-16d5-497c-89c9-376995285c66/public_url)
 
-
 ### 👤 General Information:
-- An ambitious IT specialist with a strong focus and a genuine personal interest in the architecture of solutions with more than 7 years of practical experience.
-- Business areas that I am interested in: fin-tech, e-commerce, b2b, SAAS.
 
-### 👷 Technical Skills:
-- Strong knowledge and versatile experience with Responsive Web Design and Development, JavaScript Components development and integration.
-- Actively utilizing cloud-solutions in the development process.
+As a seasoned Fullstack Software Engineer with over 8 years of experience, I specialize in developing robust and scalable solutions using JavaScript, Node.js, TypeScript, and AWS cloud technologies. My career spans significant roles in fin-tech, e-commerce, and SAAS sectors, where I have consistently delivered high-impact projects from inception to execution.
 
-### 💼 Work Experience:
-- Developed the application architecture, basic libraries, migrated the project from JS to TS, led small development teams.
-- Hands-on experience in transferring legacy applications to modern technologies.
+### 🏆 Key Achievements:  
+- Startup Development for Community Management in Telegram: Key developer in a startup that enhanced Telegram community management. Led a team of three from concept to successful deployment, significantly boosting user engagement.  
+- Project Organization and Leadership: Directed a project through all phases, from team formation to client delivery. My leadership ensured solutions were client-aligned, strategic, and sustainable, demonstrating a comprehensive management approach.  
+- Solution Development and Contract Retention: Developed and marketed a critical solution that retained a major contract for my employer. This involved diagnosing client challenges, creating a custom solution, and effectively securing contract continuation through strategic communication.
 
-### ⏱️ Project and Team Management:
-- Experience in forming functional/non-functional requirements.
-- Comparing and determining the technical stack.
-- Auditing existing systems with technical conclusion documentation.
-- Building a Work Breakdown Structure (WBS).
-- Defining project scopes.
-- Task formation and setting,
-- Organizing parallel development.
-- Managing 3-5 people teams.
-- Project documentation and architectural diagrams creation.
+### 👷 Fullstack Development Expertise:  
+- Frontend Development: Proficient in Vue.js, React, Nuxt.js, and Next.js, creating dynamic and responsive user interfaces.  
+- Backend Development: Strong skills in Node.js and Express.js, developing scalable server-side applications and APIs.  
+- Cloud Solutions: Extensive experience with AWS, implementing serverless architectures and leveraging cloud services for optimal performance.
 
-### 🛠️ Development Methodologies:
-- Actively practicing agile development and Startup speed (AI support, GitHub Copilot productivity boost, ChatGPT usage, fast prototyping, code generation).
+### 💼 Work Experience Highlights:  
+- Application Architecture and Migration: Developed application architectures, created foundational libraries, migrated projects from JavaScript to TypeScript, and led small development teams.  
+- Modernization of Legacy Systems: Hands-on experience in transitioning legacy applications to modern technologies.
 
-### 💡 Problem-solving Skills:
-- Proven ability to understand and refine the requirements of the project;
-- Comfortably cope with refactoring existing code
-- Analyzing solutions and finding suitable ways to solve problems.
+### ⏱️ Project and Team Management:  
+- Requirements Formation: Skilled in forming functional and non-functional requirements, comparing and determining technical stacks, and auditing existing systems.  
+- Project Planning and Execution: Expertise in building Work Breakdown Structures (WBS), defining project scopes, forming tasks, and organizing parallel development.  
+- Team Leadership: Managed teams of 3-5 people, created project documentation, and developed architectural diagrams.  
+- Client Communication: Effectively aligned team efforts with client expectations, ensuring projects meet strategic goals and deliver high-quality results.
 
-### 🥇 Personal Qualities:
-- I approach the development responsibly, actively participate in the planning and evaluation of the work plan. It doesn't really matter to me whether I'm going to lead or develop, it all depends on the situation. I will gladly learn new things.
+### 🛠️ Development Methodologies:  
+- Agile Practices: Actively practicing agile development and leveraging tools like AI support, GitHub Copilot, and ChatGPT for productivity boosts, fast prototyping, and code generation.
 
-### 🎯 Showed proven ability to:
-- Develop applications at startup speed.
-- Prepare comparison documents for technological stacks to solve tasks.
-- Conduct audits on codebases.
-- Develop architectural solutions.
+### 💡 Problem-solving Skills:  
+- Analytical Thinking: Proven ability to understand and refine project requirements, refactor existing code, and find suitable solutions to complex problems.
 
-### 🏆 Key achievements:
-- Successfully migrated the codebase from JS to TS.
-- Successfully assisted a Java team in the development of backend applications.
-- Successfully developed libraries for reuse in account projects.
-- The decisions my team and I made had a significant impact on the extension of the contract with the customer.
+### 🥇 Personal Qualities:  
+- Leadership and Responsibility: Demonstrated leadership in project planning and team management. Adaptable to leading or developing depending on the situation, with a commitment to continuous learning and improvement.
+
+Committed to leveraging my technical and leadership skills, I aim to enhance team performance and deliver high-quality solutions that improve business results.
 
 <!--
 **vusatui/vusatui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
