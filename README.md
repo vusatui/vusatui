@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-👨‍💻 Fullstack Software Engineer | JavaScript | Node.js | AWS
+👨‍💻 Lead Software Engineer | Senior Software Engineer | Fullstack Engineer
+
+[My CV here](https://bit.ly/4ddjeuz)
 
 [![](https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/vusatui/)
 [![](https://img.shields.io/badge/telegram-ffffff?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/vusatui)
@@ -10,36 +12,21 @@
 
 ### 👤 General Information:
 
-As a seasoned Fullstack Software Engineer with over 8 years of experience, I specialize in developing robust and scalable solutions using JavaScript, Node.js, TypeScript, and AWS cloud technologies. My career spans significant roles in fin-tech, e-commerce, and SAAS sectors, where I have consistently delivered high-impact projects from inception to execution.
+Full Stack Developer with 9 years of experience. Skilled in designing architectures and
+implementing distributed systems and other applications using Node.js, JavaScript, and
+TypeScript. 
 
-### 🏆 Key Achievements:  
-- Startup Development for Community Management in Telegram: Key developer in a startup that enhanced Telegram community management. Led a team of three from concept to successful deployment, significantly boosting user engagement.  
-- Project Organization and Leadership: Directed a project through all phases, from team formation to client delivery. My leadership ensured solutions were client-aligned, strategic, and sustainable, demonstrating a comprehensive management approach.  
-- Solution Development and Contract Retention: Developed and marketed a critical solution that retained a major contract for my employer. This involved diagnosing client challenges, creating a custom solution, and effectively securing contract continuation through strategic communication.
+Worked on highly available and secure systems, including the processing of
+sensitive data. Participated in all stages of development, from planning and design to
+implementation and process optimization. Successfully tackled ambiguous tasks,
+formulated technical approaches, and implemented best development practices.
 
-### 👷 Fullstack Development Expertise:  
-- Frontend Development: Proficient in Vue.js, React, Nuxt.js, and Next.js, creating dynamic and responsive user interfaces.  
-- Backend Development: Strong skills in Node.js and Express.js, developing scalable server-side applications and APIs.  
-- Cloud Solutions: Extensive experience with AWS, implementing serverless architectures and leveraging cloud services for optimal performance.
+Collaborated closely with cross-functional teams, including UX designers and product
+managers, to create user-oriented products. 
 
-### 💼 Work Experience Highlights:  
-- Application Architecture and Migration: Developed application architectures, created foundational libraries, migrated projects from JavaScript to TypeScript, and led small development teams.  
-- Modernization of Legacy Systems: Hands-on experience in transitioning legacy applications to modern technologies.
-
-### ⏱️ Project and Team Management:  
-- Requirements Formation: Skilled in forming functional and non-functional requirements, comparing and determining technical stacks, and auditing existing systems.  
-- Project Planning and Execution: Expertise in building Work Breakdown Structures (WBS), defining project scopes, forming tasks, and organizing parallel development.  
-- Team Leadership: Managed teams of 3-5 people, created project documentation, and developed architectural diagrams.  
-- Client Communication: Effectively aligned team efforts with client expectations, ensuring projects meet strategic goals and deliver high-quality results.
-
-### 🛠️ Development Methodologies:  
-- Agile Practices: Actively practicing agile development and leveraging tools like AI support, GitHub Copilot, and ChatGPT for productivity boosts, fast prototyping, and code generation.
-
-### 💡 Problem-solving Skills:  
-- Analytical Thinking: Proven ability to understand and refine project requirements, refactor existing code, and find suitable solutions to complex problems.
-
-### 🥇 Personal Qualities:  
-- Leadership and Responsibility: Demonstrated leadership in project planning and team management. Adaptable to leading or developing depending on the situation, with a commitment to continuous learning and improvement.
+Applied Agile methodologies to manage
+development processes. Led development teams, providing mentorship and fostering the
+growth of team members.
 
 Committed to leveraging my technical and leadership skills, I aim to enhance team performance and deliver high-quality solutions that improve business results.
 
