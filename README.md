@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-👨‍💻 Lead Software Engineer | Senior Software Engineer | Fullstack Engineer
+👨‍💻 Lead Software Engineer | Obsessed with scaling, optimizing & shipping real stuff | Thinking in Cloud | 9+ years in the IT ring 💻🥊
 
 [My CV here](https://bit.ly/4ddjeuz)
 
